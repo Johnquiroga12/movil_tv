@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movil_tv.iml" filepath="$PROJECT_DIR$/.idea/modules/movil_tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/movil_tv.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/movil_tv.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/movil_tv.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/movil_tv.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/movil_tv.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/movil_tv.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/movil_tv.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/movil_tv.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
